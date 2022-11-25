@@ -6,7 +6,7 @@ var monoSpace = '```'
 
 exports.listmenu = (sender,prefix,ad,namenya,premnya,usernya,romnya,tanggal,jam,no) => {
 return`
-━━━❲ 𝘼𝙉𝙂𝙂𝘼-𝘽𝙊𝙏 ━━━
+━━━❲ 𝙉𝘿-𝘽𝙊𝙏𝙕 ━━━
 
  𝗨𝗦𝗘𝗥 𝗜𝗡𝗙𝗢
  ID : @${sender.split('@')[0]}
@@ -726,11 +726,11 @@ return`──「 *MENU DONATE* 」──
 Hi *${cekName}* ${ucapanWaktu} 👋🏻
 
 *Payment pulsa*
-Number: 081251549899
+Number: 085749618902
 A/N: __
 
-*Payment Dana*
-Number: 081251549899
+*Payment Dana/Gopay/OVO*
+Number: 088749618902
 A/N: -_-
 
 ${monoSpace}Terimakasih untuk kamu yang sudah donasi untuk perkembangan bot ini ^_^${monoSpace}
@@ -742,17 +742,17 @@ exports.infoOwner = () =>{
 return`──「 *INFO OWNER* 」──
 
  *Data Profil*
- • *Nama:* Dani
- • *Umur:* 16 tahun
+ • *Nama:* Andhika
+ • *Umur:* 14 tahun
  • *Hoby:* Turu/tiktok
- • *Askot:* Palembang
- • *Konten:* Creator
+ • *Askot:* Mojokerto/Jawa Timur
+ • *Konten:* -
 
 _iam developer bot whatsapp._
 
  *Sosial Media*
- • *Whatsapp:* 081348106274
- • *Youtube:* DaniMaker
+ • *Whatsapp:* 085749618902
+ • *Youtube:* -
  • *Github:* -
  `
 }
